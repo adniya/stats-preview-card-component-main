@@ -1,0 +1,6 @@
+{
+    "outline.icons": true,
+    "outline.problems.badges": true,
+    "search.quickOpen.includeHistory": false,
+    "debug.saveBeforeStart": "allEditorsInActiveGroup"
+}
